@@ -1,0 +1,2 @@
+# sino
+This script
